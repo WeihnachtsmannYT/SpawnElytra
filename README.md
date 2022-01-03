@@ -1,5 +1,6 @@
 # SpawnElytra
 SpawnElytra ist ein Minecraft Plugin das eine Spawn Elytra hinzufügt wie in CraftAttack mit einem Boost
+Das Plugin ist für die Spigot 1.18
 
 # Config
 spawnRadius: 10
